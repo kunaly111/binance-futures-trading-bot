@@ -1,0 +1,4 @@
+2026-07-01 17:44:10,620 | INFO | MARKET ORDER | BTCUSDT | BUY | Qty=0.001
+2026-07-01 17:46:26,230 | INFO | MARKET ORDER | BTCUSDT | BUY | Qty=0.001
+2026-07-01 18:56:53,867 | INFO | MARKET ORDER | BTCUSDT | BUY | Qty=0.001
+2026-07-01 18:56:54,595 | INFO | Response : {'orderId': 18245476403, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ48ea7f47c53af101c4a8a3', 'price': '0.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1782912415322}
